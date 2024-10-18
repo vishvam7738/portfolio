@@ -38,7 +38,7 @@ const Hero = () => {
 
                     <p className='text-center md:tracking-wider
                     mb-4 text-sm md:text-lg lg:text-2xl'>
-                        Hi, I&apos;m Vishvam, a Next.js Developer based in Jaipur
+                        Hi, I&apos;m Vishvam, a Full Stack Developer based in Jaipur
                     </p>
                     <a href="#about">
                         <MagicButton 
