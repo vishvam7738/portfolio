@@ -14,6 +14,8 @@ export default withSentryConfig(nextConfig, {
 org: "vishvam",
 project: "javascript-nextjs",
 
+autoInstrumentServerFunctions: false,
+
 // Only print logs for uploading source maps in CI
 silent: !process.env.CI,
 
